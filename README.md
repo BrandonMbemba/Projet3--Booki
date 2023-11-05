@@ -1,2 +1,1 @@
-# Projet3--Booki
-Projet 3 - Booki (Agence de voyage)
+Troisiéme projet de la formation Intégrateur Web chez OpenClassroom.
